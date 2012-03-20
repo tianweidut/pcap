@@ -1,0 +1,1107 @@
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+tcpdump 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+python2.6-dev 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+libqt4-dev 已经是最新的版本了。
+libqt4-gui 已经是最新的版本了。
+qt4-dev-tools 已经是最新的版本了。
+qt4-qtconfig 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-phonon-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dev
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-doc
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-sql
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-common
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-gl-dbg
+注意，根据正则表达式“python-qt4-*”选中了 python-qt4-dbus
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+mysql-server 已经是最新的版本了。
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
+正在读取软件包列表...
+正在分析软件包的依赖关系树...
+正在读取状态信息...
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-psql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite2
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-sqlite
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-tds
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-odbc
+注意，根据正则表达式“libqt4-sql*”选中了 libqt4-sql-mysql
+下列软件包是自动安装的并且现在不需要了：
+  libdb-je-java junit4 libecj-java realpath libdb4.7-java
+  eclipse-platform-data snort-rules-default libjtidy-java libicu4j-java
+  eclipse-rcp libservlet2.4-java libdb4.7-java-gcj libcommons-beanutils-java
+  junit libcommons-logging-java libcommons-compress-java snort-common snmp
+  default-jdk libjsch-java jarwrapper radiusclient1 sat4j libcommons-el-java
+  libservlet2.5-java libradius1 libcommons-httpclient-java libslf4j-java
+  libasm3-java fastjar libjasper-java libnet-snmp-perl ant-optional-gcj
+  libcommons-codec-java libhamcrest-java liblucene2-java oinkmaster
+  libequinox-osgi-java libprelude2 libcommons-collections3-java ant-gcj
+  libcommons-digester-java libjetty-java libjline-java
+使用'apt-get autoremove'来删除它们
+升级了 0 个软件包，新安装了 0 个软件包，要卸载 0 个软件包，有 4 个软件包未被升级。
