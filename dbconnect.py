@@ -5,7 +5,7 @@ Created on 2011-9-3
 
 @author: tianwei
 
-func:数据库连接
+func:数据库连接 test
 '''
 
 import sys
